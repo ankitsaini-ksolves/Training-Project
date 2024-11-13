@@ -1,0 +1,3 @@
+- Call Stack
+ Manage the order of execution of execution context whenever execution context is created it is 
+ pushed into the stack and whenever execution context is deleted, it will move out of stack.
